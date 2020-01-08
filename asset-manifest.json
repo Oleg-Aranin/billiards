@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/billiards/static/css/main.317cc683.chunk.css",
+    "main.js": "/billiards/static/js/main.cf97bd43.chunk.js",
+    "main.js.map": "/billiards/static/js/main.cf97bd43.chunk.js.map",
+    "runtime-main.js": "/billiards/static/js/runtime-main.4d0f1ade.js",
+    "runtime-main.js.map": "/billiards/static/js/runtime-main.4d0f1ade.js.map",
+    "static/js/2.e6235968.chunk.js": "/billiards/static/js/2.e6235968.chunk.js",
+    "static/js/2.e6235968.chunk.js.map": "/billiards/static/js/2.e6235968.chunk.js.map",
+    "index.html": "/billiards/index.html",
+    "precache-manifest.396df20e47500e0aa346b6472cd60842.js": "/billiards/precache-manifest.396df20e47500e0aa346b6472cd60842.js",
+    "service-worker.js": "/billiards/service-worker.js",
+    "static/css/main.317cc683.chunk.css.map": "/billiards/static/css/main.317cc683.chunk.css.map",
+    "static/js/2.e6235968.chunk.js.LICENSE": "/billiards/static/js/2.e6235968.chunk.js.LICENSE",
+    "static/media/monster-marbles-sprite-sheets.jpg": "/billiards/static/media/monster-marbles-sprite-sheets.edcc46e8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d0f1ade.js",
+    "static/js/2.e6235968.chunk.js",
+    "static/css/main.317cc683.chunk.css",
+    "static/js/main.cf97bd43.chunk.js"
+  ]
+}
